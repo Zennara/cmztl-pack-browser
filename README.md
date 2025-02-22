@@ -1,4 +1,4 @@
-# How to Create a Pack:
+# How to Create a Texture Pack:
 - Download the example pack.
 - Edit `Textures.png` to your desired textures.
 - Edit `Icon.png` to your desired icon.
