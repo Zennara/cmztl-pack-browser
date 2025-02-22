@@ -7,6 +7,17 @@
   - *Currently there is no support for Metal or Diffuse textures, and `UseSimpleShaders` should always be `True`.*
 - Zip the folder (see below)
 
+### PackInfo.xml Details
+```xml
+<PackInfo>
+  <PackName>Example Pack</PackName> <!-- The pack name, variable screen length limit -->
+  <PackAuthor>Zennara</PackAuthor> <!-- Who made the pack, variable screen length limit -->
+  <PackDate>02/22/2025</PackDate> <!-- The date the pack was last updated. mm/dd/yyy format required -->
+  <PackDesc>An example pack. Use this to make your packs!</PackDesc> <!-- The pack description- cut off after 5 lines on screen -->
+  <UseSimpleShaders>true</UseSimpleShaders>
+</PackInfo>
+```
+
 ### Example Folder Structure:
 - Example_Pack.zip
   - Example Pack (folder)
