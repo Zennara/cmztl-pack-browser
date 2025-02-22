@@ -5,7 +5,6 @@
   - *Must be 256 x 256 pixels, or it will be cropped.*
 - Edit `PackInfo.xml` with your pack information.
   - *Currently there is no support for Metal or Diffuse textures, and `UseSimpleShaders` should always be `True`.*
-- Place your files inside of a folder.
 
 ### PackInfo.xml Details
 ```xml
