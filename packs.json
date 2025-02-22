@@ -3,7 +3,42 @@
     "author": "Conq_",
     "date": "10/05/2022",
     "description": "Conq's Terraria texture pack. A lot of the textures are bootleg or are debatable replacements so that's why I called it Conq's, since someone might want to make a different one.",
-    "icon_url": "https://cdn.discordapp.com/attachments/929958693330636801/1342816815381741568/Icon.png?ex=67bb031d&is=67b9b19d&hm=eb562308955486733c898c6034d067597dad187a29dfbf5a8d82542b30c8e04c&",
-    "zip_url": "https://cdn.discordapp.com/attachments/929958693330636801/1342816564722012241/ConqsTerrariaPack.zip?ex=67bb02e1&is=67b9b161&hm=2d054a050fbae84d5d329f1073bedff9c5459b03e98d0613ab2c03cdf11b0e6c&"
+    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832971429707886/Icon.png?ex=67bb1229&is=67b9c0a9&hm=547d289b7d107fc0d2440ad4068154c5eb1f5a9cc5d1ed7c0067ef326d524974&",
+    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832970653892628/ConqsTerrariaPack.zip?ex=67bb1228&is=67b9c0a8&hm=bb3496fa808e272183ed0cb167bfea0c90764e75674358c2cf639cf0ddd45257&"
+  },
+  "Zen's MC Pack": {
+    "author": "Zennara",
+    "date": "7/6/2022",
+    "description": "A Minecraft texture pack using shulkers, respawn anchors, and a few custom minecraft-inspired textures. Uses 1.19 textures.",
+    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832724850905220/Icon.png?ex=67bb11ee&is=67b9c06e&hm=f6259f1fdc15cce8bf8236326916cc1c6d07c2630361b998e6071d4b698f7799&",
+    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832724330807336/Zenns_MC_Pack.zip?ex=67bb11ee&is=67b9c06e&hm=bc43736fc90ea854e7b0f813a22684082d2f10579e1011cb63638646d75101b9&"
+  },
+  "Pink Pack": {
+    "author": "Screen Names",
+    "date": "Unknown",
+    "description": "Ever wondered what it would look like if CMZ and Minecraft had a baby? Wonder no more!",
+    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832788315050065/Icon.png?ex=67bb11fd&is=67b9c07d&hm=1f26e86101e217ec203e044c16f51e014e6bdc37f3cbc303289ccb404b6ef644&",
+    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832788545601546/Pink_pack.zip?ex=67bb11fd&is=67b9c07d&hm=795665457db7b202b55ef279ee1118422356bee50aa6574f5cc5cfc6c05bf073&"
+  },
+  "Murder Miners Pack": {
+    "author": "bigdaddy2",
+    "date": "02/17/2023",
+    "description": "A Murder Miners texture pack using some textures from the source Minecraft texture packs and new Update 40 blocks.",
+    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832831478366360/Icon.png?ex=67bb1207&is=67b9c087&hm=351a4d6ecb3d5d7388852b4e7096135257155e84d561dc894b4bc8fb595d3232&",
+    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832831025643590/Murder_Miners_Pack.zip?ex=67bb1207&is=67b9c087&hm=771720cb02f9ee38f6bc37c60f0f175fbd72738f8af9686bcbd6061501221b19&"
+  },
+  "zx 2": {
+    "author": "zxbossman",
+    "date": "05/10/2023",
+    "description": "my cmz comp/speedrun pack",
+    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832890140037180/Icon.png?ex=67bb1215&is=67b9c095&hm=d311957672479fc9d240788dcc28363c0e9f050879bd8dc095b87c56f3e5a9e3&",
+    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832889737252955/zx2.zip?ex=67bb1215&is=67b9c095&hm=b5fde00aa4f0f6e49322f69e1eb6ab62919b5ef41a4b1c0161862b01487ef835&"
+  },
+  "Minecraft Pack": {
+    "author": "Screen Names",
+    "date": "Unknown",
+    "description": "Ever wondered what it would look like if CMZ and Minecraft had a baby? Wonder no more!",
+    "icon_url": "",
+    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832626347806801/MC_Pack.zip?ex=67bb11d6&is=67b9c056&hm=f6fc7c7ee5d46d6125154c03334cc0ede91b2fff9ebbb7ea705ea0cc7d000279&"
   }
 }
