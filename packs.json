@@ -3,56 +3,49 @@
     "author": "Conq_",
     "date": "10/05/2022",
     "description": "Conq's Terraria texture pack. A lot of the textures are bootleg or are debatable replacements so that's why I called it Conq's, since someone might want to make a different one.",
-    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832971429707886/Icon.png?ex=67bb1229&is=67b9c0a9&hm=547d289b7d107fc0d2440ad4068154c5eb1f5a9cc5d1ed7c0067ef326d524974&",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832970653892628/ConqsTerrariaPack.zip?ex=67bb1228&is=67b9c0a8&hm=bb3496fa808e272183ed0cb167bfea0c90764e75674358c2cf639cf0ddd45257&"
+    "icon_url": "https://github.com/Zennara/cmztl-pack-browser/blob/main/packs/Conq's%20Terraria%20Pack/Icon.png?raw=true",
+    "zip_url": "https://github.com/Zennara/cmztl-pack-browser/raw/refs/heads/main/packs/Conq's%20Terraria%20Pack/ConqsTerrariaPack.zip"
   },
   "Zen's MC Pack": {
     "author": "Zennara",
     "date": "7/6/2022",
     "description": "A Minecraft texture pack using shulkers, respawn anchors, and a few custom minecraft-inspired textures. Uses 1.19 textures.",
-    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832724850905220/Icon.png?ex=67bb11ee&is=67b9c06e&hm=f6259f1fdc15cce8bf8236326916cc1c6d07c2630361b998e6071d4b698f7799&",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832724330807336/Zenns_MC_Pack.zip?ex=67bb11ee&is=67b9c06e&hm=bc43736fc90ea854e7b0f813a22684082d2f10579e1011cb63638646d75101b9&"
+    "icon_url": "https://github.com/Zennara/cmztl-pack-browser/blob/main/packs/Zen's%20MC%20Pack/Icon.png?raw=true",
+    "zip_url": "https://github.com/Zennara/cmztl-pack-browser/raw/refs/heads/main/packs/Zen's%20MC%20Pack/Zenns_MC_Pack.zip"
   },
   "Pink Pack": {
     "author": "Screen Names",
     "date": "Unknown",
-    "description": "Ever wondered what it would look like if CMZ and Minecraft had a baby? Wonder no more!",
-    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832788315050065/Icon.png?ex=67bb11fd&is=67b9c07d&hm=1f26e86101e217ec203e044c16f51e014e6bdc37f3cbc303289ccb404b6ef644&",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832788545601546/Pink_pack.zip?ex=67bb11fd&is=67b9c07d&hm=795665457db7b202b55ef279ee1118422356bee50aa6574f5cc5cfc6c05bf073&"
+    "description": "Everything is pink.",
+    "icon_url": "https://github.com/Zennara/cmztl-pack-browser/blob/main/packs/Pink%20Pack/Icon.png?raw=true",
+    "zip_url": "https://github.com/Zennara/cmztl-pack-browser/raw/refs/heads/main/packs/Pink%20Pack/Pink_pack.zip"
   },
   "Murder Miners Pack": {
     "author": "bigdaddy2",
     "date": "02/17/2023",
     "description": "A Murder Miners texture pack using some textures from the source Minecraft texture packs and new Update 40 blocks.",
-    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342848473804046356/Icon.png?ex=67bb2099&is=67b9cf19&hm=8b46afb0dcb2923f4656f81e157cd884a7ee9f059386b66b93c453a4f90f814d&",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342848473283690599/Murder_Miners_Pack.zip?ex=67bb2098&is=67b9cf18&hm=c47181df4e34f79bc9d1c51b0d4b6ff3c9ef8dde76b4fe7271685a3eba72cb82&"
+    "icon_url": "https://github.com/Zennara/cmztl-pack-browser/blob/main/packs/Murder%20Miners%20Pack/Icon.png?raw=true",
+    "zip_url": "https://github.com/Zennara/cmztl-pack-browser/raw/refs/heads/main/packs/Murder%20Miners%20Pack/Murder_Miners_Pack.zip"
   },
   "zx 2": {
     "author": "zxbossman",
     "date": "05/10/2023",
     "description": "my cmz comp/speedrun pack",
-    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832890140037180/Icon.png?ex=67bb1215&is=67b9c095&hm=d311957672479fc9d240788dcc28363c0e9f050879bd8dc095b87c56f3e5a9e3&",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832889737252955/zx2.zip?ex=67bb1215&is=67b9c095&hm=b5fde00aa4f0f6e49322f69e1eb6ab62919b5ef41a4b1c0161862b01487ef835&"
+    "icon_url": "https://github.com/Zennara/cmztl-pack-browser/blob/main/packs/zx%202/Icon.png?raw=true",
+    "zip_url": "https://github.com/Zennara/cmztl-pack-browser/raw/refs/heads/main/packs/zx%202/zx2.zip"
   },
   "Minecraft Pack": {
     "author": "Screen Names",
     "date": "Unknown",
     "description": "Ever wondered what it would look like if CMZ and Minecraft had a baby? Wonder no more!",
     "icon_url": "",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342832626347806801/MC_Pack.zip?ex=67bb11d6&is=67b9c056&hm=f6fc7c7ee5d46d6125154c03334cc0ede91b2fff9ebbb7ea705ea0cc7d000279&"
-  },
-  "Upscaled Textures": {
-    "author": "Alexander Alexis",
-    "date": "02/21/2023",
-    "description": "This is a upscaled pack of the normal textures using GIGAPIXEL AI",
-    "icon_url": "",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342849489546903602/CastleMiner_Z_Upscaled.zip?ex=67bb218b&is=67b9d00b&hm=6b48d027f8de4bb69fdea4bf08894ccc6efd0a8f49fc54d33469520929db82da&"
+    "zip_url": "https://github.com/Zennara/cmztl-pack-browser/raw/refs/heads/main/packs/Minecraft%20Pack/MC_Pack.zip"
   },
   "Shobon no Action": {
     "author": "Dr. SES",
     "date": "02/18/2025",
     "description": "A syobun no action pack (cat mario). Had to take many creative liberties",
-    "icon_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342851821768544307/Icon.png?ex=67bb23b7&is=67b9d237&hm=d12ada8ed35e1d9ff9fa98afbc3224ac7c4ec8b9ebb28e1960f997d58bf0a5e5&",
-    "zip_url": "https://cdn.discordapp.com/attachments/1342832093910274050/1342851821462487040/Cat_Mario.zip?ex=67bb23b7&is=67b9d237&hm=efd63941d73a396608f56104d829fa3d13f8d312ab18bbe1cd8df6f4a010a265&"
+    "icon_url": "https://github.com/Zennara/cmztl-pack-browser/blob/main/packs/Shobon%20no%20Action/icon.png?raw=true",
+    "zip_url": "https://github.com/Zennara/cmztl-pack-browser/raw/refs/heads/main/packs/Shobon%20no%20Action/Cat%20Mario.zip"
   }
 }
